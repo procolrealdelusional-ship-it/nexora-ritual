@@ -1,0 +1,11 @@
+name = "nexora-ritual-worker"
+main = "src/index.ts"
+compatibility_date = "2024-09-01"
+
+# Uncomment and set your domain:
+# routes = [
+#   { pattern = "nexora.yourdomain.com/api/*", zone_name = "yourdomain.com" }
+# ]
+
+[vars]
+ENVIRONMENT = "production"

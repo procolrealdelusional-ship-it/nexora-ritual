@@ -1,6 +1,6 @@
 // ritual.js - NeXora Ritual Engine (web client)
 
-const BASE_URL = "https://nexora-ritual-worker.YOUR_ACCOUNT.workers.dev";
+const BASE_URL = "https://nexora-ritual-worker.mnprtsgg.workers.dev";
 window.__NEXORA_BASE_URL = BASE_URL;
 
 const MILESTONES = [5, 10, 20, 30, 45];
